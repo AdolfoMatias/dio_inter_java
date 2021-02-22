@@ -1,0 +1,3 @@
+Documento agora possui conteúdo;
+Lembrar de inserir o git log e o gitk no trello;
+
