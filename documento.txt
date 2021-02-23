@@ -1,4 +1,4 @@
 Arquivo Local
 Wan - Wide Area Network
-Lan
+Lan - Local Area Network
 Man
