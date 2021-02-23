@@ -1,6 +1,6 @@
 #LIVRO DE RECEITAS :c
 
-Olá bem vindo ao livro de receita
- - Leite
- - Açucar
- - Ovo
+Olá bem vindo, aqui iremos colocar os projetos desenvolvidos
+ - Linux
+ - Java
+ - PostGres
